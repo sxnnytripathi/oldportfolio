@@ -1,0 +1,111 @@
+body {
+  margin : 0px;
+  text-align : center;
+  font-family: 'Montserrat', sans-serif;
+  font-size : 100%
+}
+
+
+.top-section {
+  background-color : #F8ECD1;
+  padding : 50px;
+}
+
+.hello {
+	width : 75%;
+	margin : auto;
+}
+
+.last {
+	width : 75%;
+	margin : auto;
+}
+
+.lasthr {
+	border : none;
+}
+
+h1 {
+  	line-height: 0.3;
+  	font-size : 5em;
+  	font-family: 'Damion', cursive;
+  	position : relative;
+  	color : #85586F;
+}
+
+.head-para {
+  line-height: 0.3;
+  color : #AC7D88;
+  font-family: 'Montserrat', sans-serif;
+  font-size : 100%;
+  font-weight: normal;
+  margin : 0px auto 50px auto;
+  postion : relative;
+  text-align : center;
+}
+
+hr {
+	border-style : none;
+	border-top-style : dotted;
+	border-color : #E9E5D6;
+	border-width : 7px;
+	width : 10%;
+}
+
+h2 {
+	color : #4E944F;
+}
+
+h3 {
+	color : #6BCB77;
+}
+
+.footer-link {
+	color : #FFE61B;
+	font-size : 20px;
+}
+
+.copyright {
+	color : #EAF6F6;
+	font-size : 20px;
+}
+
+.btn {
+	background-color : #C0EDA6;
+	color : #4E944F;
+}
+
+.footer-link {
+	display : inline;
+	margin-right : 30px;
+}
+
+.skill {
+
+  line-height : 1.5;
+  text-align : left;
+  width : 50%;
+  margin : 100px auto 100px auto;
+  font-size : 22px;
+}
+
+.web-designer-img {
+	width : 35%;
+	float : left;
+	margin-right : 30px;
+}
+
+.web-developer-img {
+	width : 35%;
+	float : right;
+	margin-left : 30px;
+}
+
+.bottom-section {
+	background-color : #66BFBF;
+}
+
+.profile-pic {
+	width : 15%;
+}
+
